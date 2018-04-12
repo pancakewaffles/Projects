@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WafflesGIS2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button">PIP Analysis</string>
+    <string name="PIP_result">Result: Idle</string>
+    <string name="DT">Triangulate</string>
+    <string name="Tri_result">Result: Idle</string>
+    <string name="small_dataset">Small</string>
+    <string name="med_dataset">Medium</string>
+    <string name="large_dataset">Large</string>
+    <string name="title_activity_processing">ProcessingActivity</string>
+
+</resources>

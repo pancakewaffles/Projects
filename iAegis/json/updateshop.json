@@ -1,0 +1,8 @@
+{
+	"updateshop": [
+        {"name": "Updates",    "price": 25000, "instock": true},
+        {"name": "Upgrades", "price": 50000, "instock": true},
+        
+        
+    ]
+}

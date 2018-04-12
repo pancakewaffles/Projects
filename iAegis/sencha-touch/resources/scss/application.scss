@@ -1,0 +1,23 @@
+//Wen Qian, you can edit colors here
+$base-color: #7A1E08;
+
+//Dun mess with these
+@import '../themes/stylesheets/sencha-touch/default/all';
+
+@include sencha-panel;
+@include sencha-buttons;
+@include sencha-sheet;
+@include sencha-picker;
+@include sencha-tabs;
+@include sencha-toolbar;
+@include sencha-toolbar-forms;
+@include sencha-carousel;
+@include sencha-indexbar;
+@include sencha-list;
+@include sencha-layout;
+@include sencha-form;
+@include sencha-msgbox;
+@include sencha-loading-spinner;
+
+//Custom UI
+@include sencha-toolbar-ui('blue', #1c83e9);
